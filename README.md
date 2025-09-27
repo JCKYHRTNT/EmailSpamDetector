@@ -1,1 +1,1 @@
-This Web Application is Python Based for Artifical Intelligence Coursework in Binus University. 
+This Web Application is Python Based for Group Project Artifical Intelligence Coursework in Binus University. 
